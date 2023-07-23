@@ -9,7 +9,7 @@ A sample to draw a route between origin and destination in Google map using Dire
 
 Add your [Google Map api key](https://github.com/alirezaeiii/GoogleMap-Direction/blob/master/app/src/main/res/values/google_maps_api.xml).
 
-Add your [Direction api key](https://github.com/alirezaeiii/GoogleMap-Direction/blob/master/app/src/main/java/io/fetchapp/repository/DirectionRepositoryImpl.kt) as well.
+Add your [Direction api key](https://github.com/alirezaeiii/GoogleMap-Direction/blob/master/app/src/main/java/io/fetchapp/repository/DirectionRepositoryImpl.kt).
 
 ## Licence
     MIT License
