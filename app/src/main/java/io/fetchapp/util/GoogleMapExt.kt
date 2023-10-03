@@ -6,7 +6,7 @@ import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.model.*
 import io.fetchapp.R
-import io.fetchapp.domain.Padding
+import io.fetchapp.domain.model.Padding
 import kotlin.math.abs
 import kotlin.math.atan
 

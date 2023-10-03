@@ -1,4 +1,4 @@
-package io.fetchapp.domain
+package io.fetchapp.domain.model
 
 data class Padding(
     val top: Double,
