@@ -6,7 +6,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.google.android.gms.maps.model.LatLng
 import dagger.hilt.android.lifecycle.HiltViewModel
-import io.fetchapp.data.repository.DirectionRepository
+import io.fetchapp.domain.repository.DirectionRepository
 import io.fetchapp.util.AppDispatchers
 import io.fetchapp.util.Resource
 import kotlinx.coroutines.launch

@@ -5,7 +5,7 @@ import com.google.android.gms.maps.model.LatLng
 import com.google.maps.android.PolyUtil
 import dagger.hilt.android.qualifiers.ApplicationContext
 import io.fetchapp.R
-import io.fetchapp.data.repository.DirectionRepository
+import io.fetchapp.domain.repository.DirectionRepository
 import io.fetchapp.data.network.DirectionService
 import io.fetchapp.util.Resource
 import javax.inject.Inject

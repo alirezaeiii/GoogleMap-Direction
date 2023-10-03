@@ -1,4 +1,4 @@
-package io.fetchapp.data.repository
+package io.fetchapp.domain.repository
 
 import com.google.android.gms.maps.model.LatLng
 import io.fetchapp.util.Resource
